@@ -1,1 +1,1 @@
-# College-Management-System-IIPS-
+# College-Management-System-IIPS- Internation Institute of Professional Studies
